@@ -19,3 +19,4 @@ if [ $variable = oui ]
 echo "quel est le nom du film"
 read 
 echo -e '$variable | tee collection.txt'
+fi
